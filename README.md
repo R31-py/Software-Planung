@@ -10,3 +10,5 @@ Die "Grading System" App  bietet eine effiziente Plattform zur Verwaltung und Sp
 - Als Lehrer möchte ich, dass alle Noten geordnet sind.
 - Als Elternteil möchte ich die Noten meines Kindes ausdrucken.
 - Als Schüler möchte ich meine Noten sehen.
+
+!["Diagram"](https://github.com/R31-py/Software-Planung/blob/main/Use-Case-Diagramm.png)
